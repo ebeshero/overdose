@@ -30,3 +30,8 @@ that may (or may not) be used during its development.
     - https://unearnedwisdom.com/chapter-9-carl-gustav-jung-and-analytical-psychology-the-discovery-of-the-unconscious/
     - https://www.youtube.com/watch?v=nEnklxGAmak
     - https://www.industrydocuments.ucsf.edu/opioids/about/overview/
+    - The Archetypes and The Collective Unconscious (By. Carl Jung)
+    - Writings on Spirituality and Transcendence (By. Carl Jung)
+    - Food of the Gods (By. Terrance McKenna )
+    - Malady of the Mind: Schizophrenia and the Path to Prevention (By. Jeffery A. Lieberman)
+    - From Breakdown to Breakthrough (By. Danielle Knafo)
