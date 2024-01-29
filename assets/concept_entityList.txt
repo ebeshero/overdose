@@ -1,0 +1,64 @@
+Bosses & Special Entities:
+	- The Disarchetypes All of these bosses are reflections of Yung's twelve archetypes. Each entity projects the worse of what that archetype is capable of. In other words, they represent the unique, toxic traits of mankind. 
+		- The Victim (safety)
+		- The Desperate (knowledge)
+		- The Beast (freedom)
+		- The Anarchist (liberation)
+		- The Ego (power)
+		- The Knight (mastery)
+		- The Succubus (intimacy)
+		- The Hedonist (pleasure)
+		- The Faceless (belonging)
+		- The Fawner (service)
+		- The Tyrant (control)
+		- The Oedipus (innovation)
+	- Delirium Threats
+		- The Hatman
+		- The Primal
+	- Manic Psychosis
+		- Archangel Michael
+		- Archangel Gabriel
+		
+	- Paranoid Psychosis
+		- Lord Beezlebub
+		- President Beur
+
+Symptoms & Effects:
+	- Euphoria (I-III)
+	- Dysphoria (I-III)
+	- Pain
+	- Nausea
+	- Anxiety
+	- Paranoia
+	- Stimulation (I-III)
+	- Focus
+	- Sedation (I-III)
+	- Psychosis
+	- Dizzy
+	- Irritable
+	- Geometry (I-III)
+	- Hallucinating (I-III)
+	- Withdrawal (I-III)
+	- Physical relief (I-III)
+	- Physical exertion (I-III)
+	- Mental relief (i-III)
+
+Mental States:
+	- Normal
+	- Happy (Euphoria II)
+	- Manic (Euphoria III, Anxiety, Irritable)
+	- Sad (Dysphoria II)
+	- Depressed (Dysphoria III, Anxiety,Irritable)
+	- Drunk (Euphoria II, Dizzy, Pain relief I)
+	- Stoned (Euphoria II, Paranoia, Sedation I)
+	- Sick (Dysphoria II, Anxiety, Nausea)
+	- Uneasy (Dysphoria I, Anxiety)
+	- Craving (Withdrawal++)
+	- Derealization ()
+	- Inhibition
+	- Sleepy
+	- Disoriented
+	- Tripping
+	- Angry
+	- Psychosis
+	- 
