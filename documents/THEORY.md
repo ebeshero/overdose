@@ -3,7 +3,7 @@
 
 - [A preliminary poetics for
 interactive drama and games, by Michael Mateas](https://users.soe.ucsc.edu/~michaelm/publications/mateas-dc-2001.pdf)
-- [The Psychology of Immersion in Video Games, Jamie Madigan](https://users.soe.ucsc.edu/~michaelm/publications/mateas-dc-2001.pdf)
+- [The Psychology of Immersion in Video Games, Jamie Madigan](https://www.psychologyofgames.com/2010/07/the-psychology-of-immersion-in-video-games/)
 
 ## Terms and Concepts
 
